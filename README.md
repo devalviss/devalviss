@@ -1,10 +1,10 @@
-
 ### Hello! 👋
 
 👨🏻‍💻 Meu nome é Maycon Alves\
 🇧🇷 Atualmente morando em Fortaleza, Brasil\
-💻 Estudante de Ciência da Computação pela Universidade Estadual do Ceará (UECE)
-
+💻 Estudante de Ciência da Computação pela Universidade Estadual do Ceará (UECE)\
+🧑‍🔬 Busco me aprofundar na área de engenharia de dados e cibersegurança\
+🔧 Foco em desenvolvimento back-end e redes
 
 #
 
@@ -16,6 +16,7 @@
  <img aling="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img aling="center" alt="Git" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img aling="center" alt="Linux" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img aling="center" alt="Linux" src= "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 <div>
 
 #
