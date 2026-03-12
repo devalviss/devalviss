@@ -15,8 +15,7 @@
  <img aling="center" alt="C" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img aling="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img aling="center" alt="Git" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
- <img aling="center" alt="Linux" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-  " />
+ <img aling="center" alt="Linux" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <div>
 
 #
